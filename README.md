@@ -1,2 +1,2 @@
 Public repository for codelists.
-Codelists from the CPRD Aurum 2023 September Release for the 'Hidden inequalities within deprivation: a population-based study on domain-specific associations across the asthma pathway in England' paper
+Codelists from the CPRD Aurum 2023 September Release for the 'Hidden inequalities within deprivation: a population-based study on domain-specific associations across the asthma pathway in England' paper.
